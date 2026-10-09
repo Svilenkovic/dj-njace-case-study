@@ -4,7 +4,7 @@
 
 Demo site for a DJ: the home page moves through a film as you scroll, with prices laid out by event type and an inquiry form.
 
-**[djnjace.svilenkovic.rs](https://djnjace.svilenkovic.rs/)** · [Case study (in Serbian)](https://svilenkovic.com/radovi/dj-njace) · [Srpski](README.sr.md)
+**[djnjace.svilenkovic.rs](https://djnjace.svilenkovic.rs/)** · [Case study (in Serbian)](https://svilenkovic.rs/radovi/dj-njace) · [Srpski](README.sr.md)
 
 > [!NOTE]
 > My own demo. The source code is private. This page describes the idea and how it is built.
@@ -40,7 +40,7 @@ The first version had a real 3D scene in the browser, and I took it out: it stut
 | Mobile | 99 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, lab test of the live site, September 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `EntertainmentBusiness`, `FAQPage`, `LocalBusiness`, `MusicGroup`, `Person`.
+PageSpeed Insights, lab test of the live site, October 2026. Security headers: 6 of 6. HTML validator: no errors. axe accessibility check: no violations. Structured data: `EntertainmentBusiness`, `FAQPage`, `LocalBusiness`, `MusicGroup`, `Person`.
 
 ## Screenshots
 

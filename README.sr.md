@@ -40,7 +40,7 @@ Prva verzija je imala pravu 3D scenu u pregledaču i izbacio sam je: zastajala j
 | Telefon | 99 | 100 | 100 | 100 |
 | Desktop | 100 | 100 | 100 | 100 |
 
-PageSpeed Insights, laboratorijsko merenje živog sajta, septembar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `EntertainmentBusiness`, `FAQPage`, `LocalBusiness`, `MusicGroup`, `Person`.
+PageSpeed Insights, laboratorijsko merenje živog sajta, oktobar 2026. Sigurnosna zaglavlja: 6 od 6. HTML validator: bez grešaka. axe provera pristupačnosti: bez prekršaja. Strukturisani podaci: `EntertainmentBusiness`, `FAQPage`, `LocalBusiness`, `MusicGroup`, `Person`.
 
 ## Snimci ekrana
 
